@@ -8,3 +8,6 @@ https://weatherapifinland.herokuapp.com
 
 https://weatherapp-helsinki.herokuapp.com/
 
+# Tutorial for AWS deployment
+
+https://www.youtube.com/watch?v=dhHOzye-Rms
